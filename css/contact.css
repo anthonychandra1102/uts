@@ -1,0 +1,103 @@
+.keterangancontact{
+	float: right;
+	color: #B6B0A7;
+}
+.homecontact{
+	width: 220px;
+	margin-left: 1250px;
+	margin-top: -475px;
+	padding-bottom: 20px;
+}
+.smartphonecontact{
+	width: 220px;
+	margin-left: 1250px;
+	padding-bottom: 20px;
+}
+.emailcontact{
+	width: 265px;
+	margin-left: 1250px;
+}
+.get{
+	font-size: 25px;
+	font-weight: bold;
+	padding-bottom: 20px;
+	margin-left: 375px;
+}
+.kiritouch{
+	margin-left: 375px;
+
+}
+textarea{
+  resize: none;
+  box-sizing: border-box;
+  border: 1px solid #ccc;
+  background-color: #1B1D1E;
+  font-size: 16px;
+  color: #D6D3CD;
+  width: 710px;
+  height: 200px;
+  padding-left: 10px;
+}
+article{
+	color: #D6D3CD;
+	padding-bottom: 100px;
+}
+.inputt{
+  border: 1px solid #ccc;
+  background-color: #1B1D1E;
+  font-size: 16px;
+  color: #B6B0A7;
+}
+::placeholder{
+	color: #B6B0A7;
+}
+.name{
+width: 330px;
+height: 35px;
+padding-left: 10px;
+margin-top: 25px;
+color: ;
+}
+.email{
+width: 330px;
+height: 40px;
+padding-left: 10px;
+margin-left: 23px;
+margin-top: 25px;
+}
+.subject{
+width: 700px;
+height: 40px;
+padding-left: 10px;
+margin-top: 25px;
+}
+.send{
+	border: 1px solid none;
+	padding: 15px;
+	padding-left: 35px;
+	padding-right: 35px;
+	background-color: #ff4240;
+	color: white;
+	text-decoration: none;
+	font-size: 14px;
+	transition: 0.2s;
+}
+.send:hover{
+	padding: 18px;
+	padding-left: 35px;
+	padding-right: 35px;
+	background: #dc143c;
+	border-radius: 10px;
+}
+.sendd{
+	padding-top: 60px;
+	padding-bottom: 20px;
+}
+.kananicon{
+	padding-top: 40px;
+
+}
+.kananicon img{
+	width: 35px;
+	height: 35px;
+}
